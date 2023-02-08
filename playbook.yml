@@ -2,3 +2,5 @@
   become: true
   roles:
     - prometheus_role
+    - node-exporter
+    - grafana  

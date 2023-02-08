@@ -1,0 +1,6 @@
+---
+
+# defaults file for roles/grafana
+
+grafana_admin_password: "abc1234"
+
